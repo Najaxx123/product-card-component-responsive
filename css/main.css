@@ -1,0 +1,50 @@
+.body {
+  background-color: red;
+}
+
+.main {
+  min-width: 80%;
+}
+
+.type {
+    font-size: 12px ;
+}
+
+.price-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.new-price {
+    color: #3D8168;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #6C7289;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.add-to-cart-btn {
+    background-color: #3D8168;
+    padding-left: 88px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 88px;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 18px;
+    margin: 16px;
+}
+
+
+
+
+
+
